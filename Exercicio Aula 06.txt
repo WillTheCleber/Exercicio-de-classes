@@ -1,0 +1,18 @@
+Exercicio de Herença e Polimorfismo
+
+Crie uma classe e defina ela como uma super classe. 
+
+Crie uma classe filha e configure a herança de classe com a superclasse.
+
+Instancie atributos da classe filha e atributos da super classe.
+
+Crie uma superposição de atributos ou métodos de uma classe filha.
+
+
+Exercicio de Herança Multiplas
+
+Crie 4 Classes e faça uma herança simples nas primeiras e uma múltipla na ultima. 
+
+Crie métodos nas instancias e tente utilizar métodos e atributos herdados de outras classes.
+
+
